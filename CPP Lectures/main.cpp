@@ -18,7 +18,7 @@ int main(){
 
 	int b = *((int*)p_a);
 	std::cout << "int b = *((int*)p_a);" << " | b = " << b <<  " | &b = " << &b << "\n";
-	
+
 	system("PAUSE");
 	return 0;
 }
